@@ -61,19 +61,21 @@
 
 <h2 align="left">🔥 My Stats :</h2>
 
-<div align="center">
-  <div style="display: flex; flex-direction: row;">
-    <div style="flex: 1;">
+<table>
+  <tr>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ezabintangr&show_icons=true&theme=cobalt" align="center" />
+      <br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezabintangr&layout=compact&theme=cobalt" align="center" />
-    </div>
-    <div style="flex: 1;">
+    </td>
+    <td>
       <img src="https://streak-stats.demolab.com?user=ezabintangr&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="295" alt="streak graph" />
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 <br/>
+
 ###
 
 <br clear="both">
