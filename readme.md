@@ -69,3 +69,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ezabintangr/ezabintangr/output/snake.svg" alt="Snake animation" />
+
+###
