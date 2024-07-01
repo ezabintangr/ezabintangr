@@ -61,9 +61,9 @@
 
 <h2 align="left">🔥   My Stats :</h2>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ezabintangr&show_icons=true&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ezabintangr&show_icons=true&theme=tokyonight" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezabintangr&layout=compact&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezabintangr&layout=compact&theme=tokyonight" align="center" /></div>  
 
 <br/>  
 
