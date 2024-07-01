@@ -64,11 +64,11 @@
 <div align="center">
   <div style="display: flex; flex-direction: row;">
     <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ezabintangr&show_icons=true&theme=onedark" align="center" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezabintangr&layout=compact&theme=onedark" align="center" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ezabintangr&show_icons=true&theme=dracula" align="center" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezabintangr&layout=compact&theme=dracula" align="center" />
     </div>
     <div style="flex: 1;">
-      <img src="https://streak-stats.demolab.com?user=ezabintangr&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="295" alt="streak graph" />
+      <img src="https://streak-stats.demolab.com?user=ezabintangr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="295" alt="streak graph" />
     </div>
   </div>
 </div>
