@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ezabintangr"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ezabintangr.visitorbadge"  />
 </div>
 
 ###
