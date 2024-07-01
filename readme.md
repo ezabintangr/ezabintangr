@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋! Eza's Here</h1>
+<h1 align="centre">Hi there👋! Eza's Here</h1>
 
 ###
 
@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://drive.google.com/file/d/1bDPST7A56h4s1LDa_KE4HQtwpukerwJM/view?usp=sharing" height="30" alt="github logo"  />
 </div>
 
 ###
