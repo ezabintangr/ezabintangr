@@ -14,7 +14,8 @@
 
 ###
 
-<p align="left">I'm Eza Bintang Ramadhan from Jember, Indonesia<br><br>- 📚 I'm currently learning backend web development<br>- ⚡ In my free time I like to exercise coding, playing video games, and watching video streaming.</p>
+<p align="left">Welcome to my GitHub profile! I'm Eza Bintang Ramadhan from Jember, Indonesia. I am a passionate Backend Engineer with a focus on building scalable and efficient systems. Here you can find some of the projects I have been working on, showcasing my skills and experience in backend development.
+<br><br>- 📚 I'm currently learning backend web development<br>- ⚡ In my free time I like to exercise coding, playing video games, and watching video streaming.</p>
 
 ###
 
